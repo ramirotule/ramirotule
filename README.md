@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Ramiro Santiago Toulemonde
 
-<!--
-**ramirotule/ramirotule** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Desarrollador Frontend especializado en **React.js** y **React Native** con más de 6 años de experiencia creando interfaces modernas, accesibles y eficientes.
 
-Here are some ideas to get you started:
+🎯 Apasionado por la tecnología, el diseño centrado en el usuario y la mejora continua. Me gusta construir soluciones que marquen una diferencia real.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías y herramientas
+
+- **Lenguajes**: JavaScript, TypeScript, HTML, CSS
+- **Frameworks**: React.js, React Native, Next.js
+- **Estilos**: Tailwind CSS, Chakra UI
+- **Gestión de estado**: Redux, MobX, Zustand
+- **Internacionalización**: i18next
+- **Backend & Servicios**: Supabase, Firebase, REST APIs
+- **Otras herramientas**: Git, GitHub, Figma, Postman
+
+## 🚀 Proyectos destacados
+
+- 💰 [Finanzas Familiares](https://github.com/ramirotule/finanzas-familiares): Aplicación móvil para administrar ingresos y gastos familiares, con autenticación y gráficos dinámicos.
+- 📱 Aplicaciones móviles en React Native para automatización de tareas y gestión de turnos.
+- 🛒 Automatización de precios de proveedores para WhatsApp con Python + Google Sheets.
+
+## 📫 Contacto
+
+- 🌐 [www.ramirotoulemonde.com.ar](https://www.ramirotoulemonde.com.ar)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ramirotoulemonde/)
+- 📧 ramirotoulemonde@gmail.com
+
+---
+
+💡 Siempre en búsqueda de nuevos desafíos y oportunidades para crecer. ¡Gracias por visitar mi perfil!
