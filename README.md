@@ -1,3 +1,7 @@
+Linkedin YouTube Email
+
+JavaScript TypeScript C# React.js Next.js .NET Node.js MS SQL Server MySQL Firebase MongoDB Git Docker Azure Netlify Vite Markdown HTML CSS3 TailwindCSS Bootstrap VS Code
+
 # 👋 ¡Hola! Soy Ramiro Santiago Toulemonde
 
 👨‍💻 Desarrollador Frontend especializado en **React.js** y **React Native** con más de 6 años de experiencia creando interfaces modernas, accesibles y eficientes.
