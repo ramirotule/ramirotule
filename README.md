@@ -74,11 +74,12 @@
 
 ## 💡 What Set Me Apart.
 
-🚀 Remote work aficionado. I believe in the power of distributed teams.
-🌍 A global mindset, collaborating with talent from around the world.
-🚧 Agile advocate, adapting quickly to changing requirements.
-💬 Strong communication skills. I'm an active participant in remote meetings.
-🧩 Problem-solving is my passion, and I love a good coding challenge.
+- 🚀 Remote work aficionado. I believe in the power of distributed teams.
+- 🌍 A global mindset, collaborating with talent from around the world.
+- 🚧 Agile advocate, adapting quickly to changing requirements.
+- 💬 Strong communication skills. I'm an active participant in remote meetings.
+- 🧩 Problem-solving is my passion, and I love a good coding challenge.
+
 ## 📫 Contact.
 
 - 🌐 [www.ramirotoulemonde.com.ar](https://www.ramirotoulemonde.com.ar)
