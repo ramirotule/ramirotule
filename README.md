@@ -72,6 +72,13 @@
 - 🎧 Web App Spotify clone: Web player with music control, protected path management, integration with Spotify API to list playlists and artists.
 - 📚 Web App Task and Project Manager: Full CRUD with authentication, user management and notifications, developed with React.js and Supabase.
 
+## 💡 What Set Me Apart.
+
+🚀 Remote work aficionado. I believe in the power of distributed teams.
+🌍 A global mindset, collaborating with talent from around the world.
+🚧 Agile advocate, adapting quickly to changing requirements.
+💬 Strong communication skills. I'm an active participant in remote meetings.
+🧩 Problem-solving is my passion, and I love a good coding challenge.
 ## 📫 Contact.
 
 - 🌐 [www.ramirotoulemonde.com.ar](https://www.ramirotoulemonde.com.ar)
