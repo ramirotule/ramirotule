@@ -13,7 +13,6 @@
 ---
 
 ### 🧑‍💻 Tecnologías
-
 <p>
   <img height="20" src="https://img.shields.io/badge/React_JS-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img height="20" src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
@@ -28,33 +27,30 @@
 </p>
 
 ### 🧰 Herramientas
-
 <p>
-  <img height="18" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img height="18" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img height="18" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img height="18" src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img height="18" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img height="18" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-  <img height="18" src="https://img.shields.io/badge/Atlassian-0052CC?style=for-the-badge&logo=atlassian&logoColor=white" />
+  <img height="20" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img height="20" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img height="20" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img height="20" src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img height="20" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img height="20" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img height="20" src="https://img.shields.io/badge/Atlassian-0052CC?style=for-the-badge&logo=atlassian&logoColor=white" />
 </p>
 
 ### ✅ Testing & QA
-
 <p>
-  <img height="18" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
-  <img height="18" src="https://img.shields.io/badge/React_Testing_Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white" />
-  <img height="18" src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" />
-  <img height="18" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-  <img height="18" src="https://img.shields.io/badge/QA_Manual_Testing-FF6B6B?style=for-the-badge&logo=airtable&logoColor=white" />
+  <img height="20" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+  <img height="20" src="https://img.shields.io/badge/React_Testing_Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white" />
+  <img height="20" src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" />
+  <img height="20" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img height="20" src="https://img.shields.io/badge/QA_Manual_Testing-FF6B6B?style=for-the-badge&logo=airtable&logoColor=white" />
 </p>
 
 ### 📦 Metodologías y Deploy
-
 <p>
-  <img height="18" src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white" />
-  <img height="18" src="https://img.shields.io/badge/Deploys_iOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
-  <img height="18" src="https://img.shields.io/badge/Deploys_Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img height="20" src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white" />
+  <img height="20" src="https://img.shields.io/badge/Deploys_iOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
+  <img height="20" src="https://img.shields.io/badge/Deploys_Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 </p>
 
 ---
