@@ -14,7 +14,7 @@
 
 ### 🧑‍💻 Tecnologías
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/React_JS-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
