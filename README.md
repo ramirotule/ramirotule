@@ -45,18 +45,19 @@
 ✅ Testing & QA
 </h4>
 <p>
-  <img height="20" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
-  <img height="20" src="https://img.shields.io/badge/React_Testing_Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white" />
-  <img height="20" src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" />
-  <img height="20" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-  <img height="20" src="https://img.shields.io/badge/QA_Manual_Testing-FF6B6B?style=for-the-badge&logo=airtable&logoColor=white" />
+  <img height="28" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+  <img height="28" src="https://img.shields.io/badge/React_Testing_Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white" />
+  <img height="28" src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" />
+  <img height="28" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img height="28" src="https://img.shields.io/badge/QA_Manual_Testing-FF6B6B?style=for-the-badge&logo=airtable&logoColor=white" />
 </p>
-
-### 📦 Metodologías y Deploy
+<h4>
+📦 Metodologías y Deploy
+</h4>
 <p>
-  <img height="20" src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white" />
-  <img height="20" src="https://img.shields.io/badge/Deploys_iOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
-  <img height="20" src="https://img.shields.io/badge/Deploys_Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img height="28" src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white" />
+  <img height="28" src="https://img.shields.io/badge/Deploys_iOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
+  <img height="28" src="https://img.shields.io/badge/Deploys_Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 </p>
 
 ---
