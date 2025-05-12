@@ -1,5 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-
+# 👋 Hi! I'm Ramiro Santiago Toulemonde. Nice to see you here.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramirotoulemonde/) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.ramirotoulemonde.com.ar)
@@ -57,9 +56,9 @@
 
 ---
 
-# 👋 Hi! I'm Ramiro Santiago Toulemonde
 
-👨‍💻 Frontend Developer specialized in **React.js** and **React Native** with more than 6 years of experience creating modern, accessible and efficient interfaces.
+
+👨‍💻 I am Frontend Developer specialized in **React.js** and **React Native** with more than 6 years of experience creating modern, accessible and efficient interfaces.
 
 🎯 Passionate about technology, user-centered design and continuous improvement. I like to build solutions that make a real difference.
 
