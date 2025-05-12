@@ -1,14 +1,9 @@
-<p>
-  <a href="https://www.linkedin.com/in/ramirotoulemonde/" target="_blank">
-    <img height="40" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:ramirotoulemonde@gmail.com">
-    <img height="40" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-  <a href="https://www.ramirotoulemonde.com.ar" target="_blank">
-    <img height="40" src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
-  </a>
-</p>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tasin5541/) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UClvrUclYSGX_MZPOF6ySG6A)
+[![Email](https://img.shields.io/badge/Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tasinmiftaulmannan@gmail.com)
 
 ---
 <h4>
