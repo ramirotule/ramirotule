@@ -7,7 +7,7 @@
 
 ---
 <h4>
-🧑‍💻 Tecnologías
+🧑‍💻 Technologies
 </h4>
 
 <p>
@@ -24,7 +24,7 @@
 </p>
 
 <h4>
-🧰 Herramientas
+🧰 Tools
 </h4>
 <p>
   <img height="28" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -47,7 +47,7 @@
   <img height="28" src="https://img.shields.io/badge/QA_Manual_Testing-FF6B6B?style=for-the-badge&logo=airtable&logoColor=white" />
 </p>
 <h4>
-📦 Metodologías y Deploy
+📦 Methodologies and Deployments
 </h4>
 <p>
   <img height="28" src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white" />
@@ -57,19 +57,19 @@
 
 ---
 
-# 👋 ¡Hola! Soy Ramiro Santiago Toulemonde
+# 👋 Hi! I'm Ramiro Santiago Toulemonde
 
-👨‍💻 Desarrollador Frontend especializado en **React.js** y **React Native** con más de 6 años de experiencia creando interfaces modernas, accesibles y eficientes.
+👨‍💻 Frontend Developer specialized in **React.js** and **React Native** with more than 6 years of experience creating modern, accessible and efficient interfaces.
 
-🎯 Apasionado por la tecnología, el diseño centrado en el usuario y la mejora continua. Me gusta construir soluciones que marquen una diferencia real.
+🎯 Passionate about technology, user-centered design and continuous improvement. I like to build solutions that make a real difference.
 
-## 🚀 Proyectos destacados
+## 🚀 Featured projects.
 
-- 💰 [Finanzas Familiares](https://github.com/ramirotule/finanzas-familiares): Aplicación móvil para administrar ingresos y gastos familiares, con autenticación y gráficos dinámicos.
-- 📱 Aplicaciones móviles en React Native para automatización de tareas y gestión de turnos.
-- 🛒 Automatización de precios de proveedores para WhatsApp con Python + Google Sheets.
+- 💰 [Family Finance](https://github.com/ramirotule/finanzas-familiares): Mobile app to manage family income and expenses, with authentication and dynamic charts.
+- 📱 Mobile apps in React Native for task automation and shift management.
+- 🛒 Vendor pricing automation for WhatsApp with Python + Google Sheets.
 
-## 📫 Contacto
+## 📫 Contact.
 
 - 🌐 [www.ramirotoulemonde.com.ar](https://www.ramirotoulemonde.com.ar)
 - 💼 [LinkedIn](https://www.linkedin.com/in/ramirotoulemonde/)
@@ -77,4 +77,6 @@
 
 ---
 
-💡 Siempre en búsqueda de nuevos desafíos y oportunidades para crecer. ¡Gracias por visitar mi perfil!
+💡 Always looking for new challenges and opportunities to grow. thanks for visiting my profile!
+
+Translated with DeepL.com (free version)
