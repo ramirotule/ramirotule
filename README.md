@@ -64,9 +64,13 @@
 
 ## 🚀 Featured projects.
 
-- 💰 [Family Finance](https://github.com/ramirotule/finanzas-familiares): Mobile app to manage family income and expenses, with authentication and dynamic charts.
+- 💰 Mobile app to manage family income and expenses, with authentication and dynamic charts.
 - 📱 Mobile apps in React Native for task automation and shift management.
-- 🛒 Vendor pricing automation for WhatsApp with Python + Google Sheets.
+- 🛒 Web App Ecommerce Computer Sells.
+- 📷 Web App Instagram clone: Application with feed, image upload, likes and comments. Using Firebase for authentication and storage, React Native for frontend.
+- 🎬 Web App Netflix clone: Responsive platform built with React.js, TMDB API consumption to show movies and series, Netflix style design.
+- 🎧 Web App Spotify clone: Web player with music control, protected path management, integration with Spotify API to list playlists and artists.
+- 📚 Web App Task and Project Manager: Full CRUD with authentication, user management and notifications, developed with React.js and Supabase.
 
 ## 📫 Contact.
 
