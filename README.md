@@ -84,7 +84,7 @@
 
 - 🌐 [www.ramirotoulemonde.com.ar](https://www.ramirotoulemonde.com.ar)
 - 💼 [LinkedIn](https://www.linkedin.com/in/ramirotoulemonde/)
-- 📧 ramirotoulemonde@gmail.com
+- 📧 ramiro.toulemonde@gmail.com
 
 ---
 
